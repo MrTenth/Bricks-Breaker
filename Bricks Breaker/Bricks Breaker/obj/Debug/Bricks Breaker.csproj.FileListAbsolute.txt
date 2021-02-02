@@ -1,0 +1,10 @@
+D:\Users\STRING10\Documents\C# Note\Bricks Breaker\Bricks Breaker\bin\Debug\Bricks Breaker.exe.config
+D:\Users\STRING10\Documents\C# Note\Bricks Breaker\Bricks Breaker\bin\Debug\Bricks Breaker.exe
+D:\Users\STRING10\Documents\C# Note\Bricks Breaker\Bricks Breaker\bin\Debug\Bricks Breaker.pdb
+D:\Users\STRING10\Documents\C# Note\Bricks Breaker\Bricks Breaker\obj\Debug\Bricks Breaker.csprojAssemblyReference.cache
+D:\Users\STRING10\Documents\C# Note\Bricks Breaker\Bricks Breaker\obj\Debug\Bricks_Breaker.BricksBreaker.resources
+D:\Users\STRING10\Documents\C# Note\Bricks Breaker\Bricks Breaker\obj\Debug\Bricks_Breaker.Properties.Resources.resources
+D:\Users\STRING10\Documents\C# Note\Bricks Breaker\Bricks Breaker\obj\Debug\Bricks Breaker.csproj.GenerateResource.cache
+D:\Users\STRING10\Documents\C# Note\Bricks Breaker\Bricks Breaker\obj\Debug\Bricks Breaker.csproj.CoreCompileInputs.cache
+D:\Users\STRING10\Documents\C# Note\Bricks Breaker\Bricks Breaker\obj\Debug\Bricks Breaker.exe
+D:\Users\STRING10\Documents\C# Note\Bricks Breaker\Bricks Breaker\obj\Debug\Bricks Breaker.pdb
