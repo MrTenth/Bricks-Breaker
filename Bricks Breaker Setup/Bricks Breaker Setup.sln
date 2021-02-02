@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Bricks Breaker Setup", "Bricks Breaker Setup\Bricks Breaker Setup.vdproj", "{61A01E3D-FE9B-4977-B446-16BD8D2BEDA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A01E3D-FE9B-4977-B446-16BD8D2BEDA7}.Debug|Default.ActiveCfg = Debug
+		{61A01E3D-FE9B-4977-B446-16BD8D2BEDA7}.Debug|Default.Build.0 = Debug
+		{61A01E3D-FE9B-4977-B446-16BD8D2BEDA7}.Release|Default.ActiveCfg = Release
+		{61A01E3D-FE9B-4977-B446-16BD8D2BEDA7}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FE02121-84D8-41EF-9C63-585231835411}
+	EndGlobalSection
+EndGlobal
